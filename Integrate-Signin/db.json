@@ -1,0 +1,123 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "firstName": "kailash",
+      "lastName": "jha",
+      "email": "k@gmail.com",
+      "password": "Pa$"
+    },
+    {
+      "id": "da06",
+      "firstName": "sahil",
+      "lastName": "ss",
+      "email": "s@gmail.com",
+      "password": "Kai123"
+    },
+    {
+      "id": "f0a1",
+      "firstName": "snehal",
+      "lastName": "aa",
+      "email": "sa@gmail.com",
+      "password": "Sa1234"
+    },
+    {
+      "id": "2a23",
+      "firstName": "Satish",
+      "lastName": "Pawar",
+      "email": "satish@gmail.com",
+      "password": "Sati12"
+    },
+    {
+      "id": "6a65",
+      "firstName": "Prajwal",
+      "lastName": "Kale",
+      "email": "p@gmail.com",
+      "password": "Praj12"
+    },
+    {
+      "id": "7d2e",
+      "firstName": "Swaroop",
+      "lastName": "Thomare",
+      "email": "swaroop@gmail.com",
+      "password": "sw1234"
+    },
+    {
+      "id": "9990",
+      "firstName": "Harsh",
+      "lastName": "Harsh",
+      "email": "H@gmail.com",
+      "password": "h12345"
+    },
+    {
+      "id": "98c3",
+      "firstName": "Satyam",
+      "lastName": "s",
+      "email": "satyam@gmail.com",
+      "password": "Sat123"
+    },
+    {
+      "id": "b460",
+      "firstName": "Bhushan",
+      "lastName": "Bhushan",
+      "email": "b@gmail.com",
+      "password": "Bhu123"
+    },
+    {
+      "id": "8ebe",
+      "firstName": "Lalit",
+      "lastName": "Lalit",
+      "email": "l@gmail.com",
+      "password": "lal123"
+    },
+    {
+      "id": "f638",
+      "firstName": "Keshav",
+      "lastName": "Keshav",
+      "email": "Keshav@gmail.com",
+      "password": "kes123"
+    },
+    {
+      "id": "92f5",
+      "firstName": "Shiva",
+      "lastName": "Shiva",
+      "email": "Shiva@gmail.com",
+      "password": "Shi12@"
+    },
+    {
+      "id": "af54",
+      "firstName": "Shyam",
+      "lastName": "Shyam",
+      "email": "Shyam@gmail.com",
+      "password": "Shy12@"
+    },
+    {
+      "id": "b06a",
+      "firstName": "Shankar",
+      "lastName": "Shankar",
+      "email": "Shankar@gmail.com",
+      "password": "Sh123$"
+    },
+    {
+      "id": "82fc",
+      "firstName": "Sanmukh",
+      "lastName": "Sanmukh",
+      "email": "Sanmukh@gmail.com",
+      "password": "san12@"
+    },
+    {
+      "id": "31b4",
+      "firstName": "Shivam",
+      "lastName": "Shivam",
+      "email": "Shivam@gmail.com",
+      "password": "Shi123"
+    },
+    {
+      "id": "bb52",
+      "firstName": "sdf",
+      "lastName": "sfd",
+      "email": "sd@gmail.com",
+      "password": "s@123456S"
+    }
+  ]
+}
